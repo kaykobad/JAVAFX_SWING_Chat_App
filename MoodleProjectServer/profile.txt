@@ -1,0 +1,60 @@
+kaykobad
+Name: Kaykobad Reza
+Student ID: 201405057
+Email: kaykobadreza@gmail.com
+Level: 2 Term: 1
+anik
+Name: Anik Sarker
+Student ID: 201405001
+Email: anik@gmail.com
+Level: 1 Term: 1
+rafid
+Name: Hasmid Rafid
+Student ID: 201405005
+Email: rafid@gmail.com
+Level: 1 Term: 1
+pantho
+Name: Mahim Pantho
+Student ID: 201405046
+Email: pantho@gmail.com
+Level: 1 Term: 1
+sifat
+Name: Sifat Mahmud
+Student ID: 201405024
+email: sifat23@gmail.com
+Level: 1 Term: 1
+mahfuz
+Name: Dr. Mohammad Mahfuzul Islam
+Professor,CSE, BUET
+Email: mahfuz@gmail.com
+Course: Object Oriented Programming
+siddhartha
+Name: Siddhartha Shankar Das
+Lecturer,CSE, BUET
+Email: sid123@gmail.com
+Course: Java
+sohel
+Name: Dr. Md. Sohel Rahman
+Head of CSE, BUET
+Email: sohelkcl@gmail.com
+Course: Algorithm,Data Structure
+Sukarna
+Name: Sukarna Barua
+Assistant professor, CSE, BUET
+Email: sukarna@gmail.com
+Course: Digital Logic Design
+saifur
+Name: Md. Saifur Rahman
+Assistant professsor,CSE, BUET
+Email: saifur@gmail.com
+Course: Computer Networking
+tasnim
+Name: Tasneem Yasmin
+Student ID: 1405033
+Email: tasnimria@gmail.com
+Level: 2	Term: 1
+abhi
+Name: Abhishek Agarwala
+Student ID: 1405028
+Email: abhishek.agarwal@gmail.com
+Level: 2	Term: 1

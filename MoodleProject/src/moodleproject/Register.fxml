@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.RadioMenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="476.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="moodleproject.RegisterController">
+   <children>
+      <Label fx:id="lb_welcome" layoutX="168.0" layoutY="53.0" prefHeight="25.0" prefWidth="194.0" text="Registration Page">
+         <font>
+            <Font name="Comic Sans MS" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lb_name" layoutX="84.0" layoutY="124.0" prefHeight="19.0" prefWidth="67.0" text="Full Name:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tf_name" layoutX="158.0" layoutY="121.0" prefHeight="25.0" prefWidth="246.0" promptText="Full Name">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tf_email" layoutX="158.0" layoutY="162.0" prefHeight="25.0" prefWidth="246.0" promptText="Email">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tf_stid" layoutX="158.0" layoutY="202.0" prefHeight="25.0" prefWidth="246.0" promptText="Student ID">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </TextField>
+      <PasswordField fx:id="pf_password" layoutX="158.0" layoutY="288.0" prefHeight="25.0" prefWidth="246.0" promptText="Password">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </PasswordField>
+      <TextField fx:id="tf_username" layoutX="158.0" layoutY="244.0" prefHeight="25.0" prefWidth="246.0" promptText="Username">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </TextField>
+      <MenuButton fx:id="level_m" layoutX="158.0" layoutY="331.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="102.0" text="Level">
+        <items>
+            <RadioMenuItem fx:id="Level_1" mnemonicParsing="false" onAction="#level1Action" text="Level 1" />
+            <RadioMenuItem fx:id="Level_2" mnemonicParsing="false" onAction="#level2Action" text="Level 2" />
+            <RadioMenuItem fx:id="Level_3" mnemonicParsing="false" onAction="#level3Action" text="Level 3" />
+            <RadioMenuItem fx:id="Level_4" mnemonicParsing="false" onAction="#level4Action" text="Level_4" />
+        </items>
+         <font>
+            <Font size="13.0" />
+         </font>
+      </MenuButton>
+      <MenuButton fx:id="term_m" layoutX="302.0" layoutY="331.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="102.0" text="Term">
+        <items>
+            <RadioMenuItem fx:id="Term_1" mnemonicParsing="false" onAction="#term1Action" text="Trem 1" />
+            <RadioMenuItem fx:id="Term_2" mnemonicParsing="false" onAction="#term2Action" text="Term 2" />
+        </items>
+         <font>
+            <Font size="13.0" />
+         </font>
+      </MenuButton>
+      <Label fx:id="lb_email" layoutX="84.0" layoutY="168.0" prefHeight="17.0" prefWidth="59.0" text="Email:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="lb_stid" layoutX="84.0" layoutY="208.0" text="Student ID:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="lb_username" layoutX="84.0" layoutY="250.0" text="Username:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="lb_pass" layoutX="84.0" layoutY="292.0" text="Password:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="lb_lvterm" layoutX="84.0" layoutY="337.0" text="Level/Term:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="lb_subjects" layoutX="84.0" layoutY="393.0" text="Subjects:">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="oop_ck" layoutX="158.0" layoutY="394.0" mnemonicParsing="false" text="OOP" />
+      <CheckBox fx:id="algorithm_ck" layoutX="158.0" layoutY="435.0" mnemonicParsing="false" text="Algorithm" />
+      <CheckBox fx:id="machine_ck" layoutX="158.0" layoutY="475.0" mnemonicParsing="false" text="Machine Learning" />
+      <CheckBox fx:id="dld_ck" layoutX="302.0" layoutY="394.0" mnemonicParsing="false" text="DLD" />
+      <CheckBox fx:id="ds_ck" layoutX="302.0" layoutY="435.0" mnemonicParsing="false" text="Data Structure" />
+      <CheckBox fx:id="network_ck" layoutX="302.0" layoutY="475.0" mnemonicParsing="false" text="Computer Network" />
+      <Button fx:id="btn_register" layoutX="346.0" layoutY="530.0" mnemonicParsing="false" onAction="#registerAction" text="Register">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

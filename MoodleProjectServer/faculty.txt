@@ -1,0 +1,56 @@
+Professors:
+  1. Dr. M. Kaykobad 
+  2. Dr. Muhammad Masroor Ali
+  3. Dr. Md. Abul Kashem Mia 
+  4. Dr. Md. Saidur Rahman 
+  5. Dr. Md. Monirul Islam 
+  6. Dr. Md. Mostofa Akbar 
+  7. Dr. Abu Sayed Md. Latiful Hoque
+  8. Dr. Mohammad Mahfuzul Islam 
+  9. Dr. M. Sohel Rahman 
+ 10. Dr. A.K.M. Ashikur Rahman
+ 11. Dr. Mohammed Eunus Ali 
+ 12. Dr. Mahmuda Naznin 
+
+Associate Professor:
+  1. Md. Abdus Sattar 
+  2. Dr. Md. Monirul Islam 
+  3. Dr. S. M. Farhad 
+  4. Dr. Md. Shohrab Hossain
+  5. Dr. Md. Yusuf Sarwar Uddin
+  6. Dr. Tanzima Hashem 
+
+Assistant Professors:
+  1. Abu Wasif 
+  2. Tanveer Awal
+  3. Khaled Mahmud Shahriar
+  4. Dr. Muhammad Abdullah Adnan
+  5. Dr. Rifat Shahriyar 
+  6. Sukarna Barua 
+  7. Dr. A. B. M. Alim Al Islam 
+  8. Dr. Anindya Iqbal 
+  9. Mohammad Saifur Rahman 
+ 10. Dr. Sadia Sharmin 
+ 11. Johra Muhammad Moosa 
+ 12. Dr. Atif Hasan Rahman 
+
+Lecturer:
+  1. Muhammad Ali Nayeem 
+  2. Md. Aashikur Rahman Azim 
+  3. Toufique Ahmed 
+  4. Abdus Salam Azad
+  5. Tanvir Ahmed Khan 
+  6. Md. Ishat - E - Rabban
+  7. Radi Muhammad Reza 
+  8. Siddhartha Shankar Das
+  9. Mohammed Kaysar Abdullah 
+ 10. Md. Iftekharul Islam Sakib 
+ 11. Madhusudan Basak 
+ 12. Tanmoy Sen 
+ 13. Ishtiyaque Ahmad 
+ 14. Nazmus Saquib 
+ 15. Md. Tarikul Islam Papon 
+ 16. Mehnaz Tabassum Mahin
+ 17. Sabbir Ahmad 
+ 18. Shareef Ahmed 
+ 19. Ch. Md. Rakin Haider
